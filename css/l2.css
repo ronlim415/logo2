@@ -1,6 +1,6 @@
 .container{
   border: 10px solid #000000;
-  left:10.4%;
+  margin-left:10.4%;
   position: absolute;
   height:550px;
   width:550px;
@@ -11,8 +11,8 @@
 }
 .bc{
   position:absolute;
-  top: 3%;
-  left: 12%;
+  margin-top: 3%;
+  margin-left: 12%;
   width: 500px;
   height: 500px;
   border-radius: 50%;
@@ -24,8 +24,8 @@
 }
 .c2{
   position:absolute;
-  top: 3%;
-  left: 12%;
+  margin-top: 3%;
+  margin-left: 12%;
   width: 500px;
   height: 500px;
   border-radius: 50%;
@@ -37,8 +37,8 @@
 }
 .c3{
   position:absolute;
-  top: 3%;
-  left: 12%;
+  margin-top: 3%;
+  margin-left: 12%;
   width: 500px;
   height: 500px;
   border-radius: 50%;
@@ -50,8 +50,8 @@
 }
 .c4{
   position:absolute;
-  top: 3%;
-  left: 12%;
+  margin-top: 3%;
+  margin-left: 12%;
   width: 500px;
   height: 500px;
   border-radius: 50%;
@@ -68,8 +68,8 @@
       color: white;
       width: 0px;
       height: 0px;
-      bottom: 56%;
-      left: 22%;
+      margin-bottom: 56%;
+      margin-left: 22%;
       border-right: 100px solid transparent;
       border-bottom: 70px solid white;
       border-left: 100px solid transparent;
@@ -82,8 +82,8 @@
   position: absolute;
   height: 0;
   width: 0;
-  top: -45px;
-  left: -65px;
+  margin-top: -45px;
+  margin-left: -65px;
   display: block;
   content: '';
   transform: rotate(-35deg);
@@ -92,8 +92,8 @@
   position: absolute;
   display: block;
   color: white;
-  top: 3px;
-  left: -105px;
+  margin-top: 3px;
+  margin-left: -105px;
   width: 0px;
   height: 0px;
   border-right: 100px solid transparent;
